@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "889412661367",
+    "firebase_url": "https://daily-location-tracker-bebdb.firebaseio.com",
+    "project_id": "daily-location-tracker-bebdb",
+    "storage_bucket": "daily-location-tracker-bebdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889412661367:android:22d99d2f56bd36926a1672",
+        "android_client_info": {
+          "package_name": "com.jfinkelstudios.mobile.daily.location.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889412661367-jlh4ca3csdo82bjqnqg6s04i3sqasa64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jfinkelstudios.mobile.daily.location.tracker",
+            "certificate_hash": "1f891ff7a6481938261c1dbb8ee2ce5e0e85f454"
+          }
+        },
+        {
+          "client_id": "889412661367-rsc3roafn5tuj6pknasmuu1f1b0l6tfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgUAF4QTwMutn4-fxemfHipLrVCz8MV_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889412661367-rsc3roafn5tuj6pknasmuu1f1b0l6tfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

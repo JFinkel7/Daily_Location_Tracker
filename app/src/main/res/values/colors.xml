@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Info:
+       0 Being The Lightest and >  Being The Darkest
+       4 color Tag Categories :
+       Dark , Light, Bright , White, Black
+-->
+<resources>
+    <!-- Chosen Primaries -->
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Transparent -->
+    <color name="Transparent">#00000000</color>
+    <!-- Material Colors -->
+    <!--    <color name="materialLightWhite">background_material_light</color>-->
+    <!-- Black -->
+    <color name="Black">#000000</color>
+    <color name="blackish2">#080808</color>
+    <color name="blackish1">#101010</color>
+    <color name="blackish0">#181818</color>
+    <color name="black_Coal1">#202020</color>
+    <color name="black_Charcoal">#222021</color>
+    <color name="black_Coal0">#282828</color>
+    <color name="black_Grey3">#303030</color>
+    <color name="black_Shadow">#363636</color>
+    <color name="black_ShadowLight">#383838</color>
+    <color name="black_Grey1">#404040</color>
+    <color name="black_Grey0">#484848</color>
+    <color name="grey_Iron">#48494B</color>
+    <color name="black_Smoke3">#505050</color>
+    <color name="black_Smoke2">#585858</color>
+    <color name="black_Smoke1">#606060</color>
+    <color name="black_Smoke0">#686868</color>
+    <color name="black_SmokeGrey1">#696969</color>
+    <color name="black_SmokeGrey2">#707070</color>
+    <color name="black_SmokeGrey3">#787878</color>
+    <color name="Gray">#808080</color>
+    <color name="gray_Light">#828282</color>
+    <color name="grey_Steel">#777B7E</color>
+    <color name="grey_Lava">#808588</color>
+    <color name="grey_Pewter">#999DA0</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="gray_Bright">#D3D3D3</color>
+
+    <!-- White -->
+    <color name="Pearl_River">#D9DDDC</color>
+    <color name="Azure">#f0ffff</color>
+    <color name="White">#FFFFFF</color>
+    <color name="GhostWhite">#f8f8ff</color>
+    <color name="Snow">#FFFAFA</color>
+    <color name="Diamond">#F1F7FB</color>
+    <color name="Quartz">#D9D9F3</color>
+    <color name="WhiteBlue">#CCCCFF</color>
+
+    <!-- Blue - Light -->
+    <color name="blue_CyanWhite">#E0FFFF</color>
+    <color name="blue_TealLight">#9AC5DB</color>
+    <color name="blue_Sky">#95C8D8</color>
+    <color name="blue_CyanPrimary">#00B7EB</color>
+    <color name="blue_Maya">#73C2FB</color>
+    <color name="blue_Powder">#B0DFE5</color>
+    <color name="blue_Celeste">#B2FFFF</color>
+    <color name="blue_AquamarineLight">#95E0E8</color>
+    <color name="blue_Baby">#89CFF0</color>
+    <color name="blue_TurquoiseDim">#81D8D0</color>
+    <color name="blue_Electric0">#7EF9FF</color>
+    <color name="blue_Electric1">#7DF9FF</color>
+    <color name="blue_TurquoiseLight">#6CDAE7</color>
+    <color name="blue_Aqua">#00FFFF</color>
+    <color name="blue_Turquoise">#3FE0D0</color>
+    <color name="blue_SeaGreenLight">#20B2AA</color>
+    <color name="blue_Eucalyptus">#44d7a8</color>
+    <color name="blue_Aquamarine">#7FFFD4</color>
+    <color name="blue_Keppel">#3AB09E</color>
+    <color name="blue_CyanLight">#06A396</color>
+    <color name="blue_CyanDark">#008B8B</color>
+    <color name="blue_Teal">#008081</color>
+    <color name="blue_CyanCaribbean">#006D6F</color>
+    <color name="blue_MidnightGreen">#004953</color>
+    <color name="blue_SaturatedLight1">#363E53</color>
+    <color name="blue_Independence">#4C516D</color>
+    <color name="blue_SaturatedLight0">#46506B</color>
+    <color name="blue_NavyDeSaturated">#3D5069</color>
+    <color name="blue_Pigeon">#7285A5</color>
+    <color name="blue_NavySaturated">#2A3c58</color>
+    <color name="blue_Prussian">#003152</color>
+    <color name="blue_Yale">#0E4D92</color>
+    <color name="blue_Sapphire">#0F52BA</color>
+    <color name="blue_Azure">#0080FF</color>
+    <color name="blue_Steel">#4682B4</color>
+    <color name="blue_AirForce">#588BAE</color>
+
+    <!-- Blue - Dark -->
+    <color name="blue_Cornflower">#6593F5</color>
+    <color name="blue_Corolina">#57A0D3</color>
+    <color name="blue_Olympic">#008ECC</color>
+    <color name="blue_Turkish">#4F97A3</color>
+    <color name="blue_CeruleanBright">#0D98BA</color>
+    <color name="blue_Cerulean">#007BA7</color>
+    <color name="blue_CeruleanDark">#1164B4</color>
+    <color name="blue_Ocean">#2B65EC</color>
+    <color name="blue_Indigo">#4F69C6</color>
+    <color name="blue_Midnight">#00468C</color>
+    <color name="blue_Ultramarine">#3F26BF</color>
+    <color name="blue_MoonLight">#4D00FF</color>
+    <color name="blue_Medium">#3232CC</color>
+    <color name="Blue">#3300FF</color>
+    <color name="blue_Egyptian">#1034A6</color>
+    <color name="blue_Navy">#000080</color>
+    <color name="blue_NavyDark">#000066</color>
+    <color name="blue_Royal">#111E6C</color>
+    <color name="blue_DeepLight">#00004c</color>
+    <color name="blue_Space">#1D2951</color>
+    <color name="blue_DeepDark">#000033</color>
+    <color name="blue_NavyPureDark">#192943</color>
+    <color name="blue_SaturatedDark">#272C3B</color>
+    <color name="blue_Blackish">#1F232F</color>
+    <color name="blue_Black">#171B24</color>
+    <color name="blue_PureBlack">#0F1218</color>
+
+    <!-- Purple -->
+    <color name="purple_PureDark">#291E29</color>
+    <color name="purple_Dark1">#301934</color>
+    <color name="purple_Dark2">#341731</color>
+    <color name="purple_DarkLight">#481F3D</color>
+    <color name="purple_Pansy">#78184A</color>
+    <color name="purple_RootDark">#7D1955</color>
+    <color name="purple_PalatinateLight1">#732A57</color>
+    <color name="purple_Palatinate">#682860</color>
+    <color name="purple_Byzantium">#702963</color>
+    <color name="purple_PalatinateLight2">#730C75</color>
+    <color name="purple_Root">#800080</color>
+    <color name="purple_MardiGras">#880085</color>
+    <color name="purple_DarkMagenta">#8B008B</color>
+    <color name="purple_Eminence">#6C3082</color>
+    <color name="purple_Purpureus">#9A4EAE</color>
+    <color name="purple_Piz">#FE4EDA</color>
+    <color name="purple_MediumOrchid">#BA55D3</color>
+    <color name="purple_Orchid">#DA70D6</color>
+    <color name="purple_Liseran">#DE6FA1</color>
+    <color name="pink_PaleVioletRed">#DB7093</color>
+    <color name="purple_Pearly">#B768A2</color>
+    <color name="purple_Violet">#ee82ee</color>
+    <color name="purple_Heliotrope">#DF73FF</color>
+    <color name="purple_Mulberry">#C54B8C</color>
+    <color name="purple_Munsell">#9F00C5</color>
+    <color name="purple_Fuchsia">#FF00FF</color>
+    <color name="purple_Electric">#BF00FF</color>
+    <color name="purple_Magenta">#FF00FF</color>
+    <color name="purple_Phlox">#DF00FF</color>
+    <color name="purple_DarkViolet">#9400D3</color>
+    <color name="purple_DarkOrchid">#9932CC</color>
+    <color name="Purple">#A020F0</color>
+    <color name="purple_BlueViolet">#8A2BE2</color>
+    <color name="purple_NorthwesternBright">#6504C2</color>
+    <color name="purple_Northwestern">#4E2A84</color>
+    <color name="purple_KSU">#512888</color>
+    <color name="purple_Indigo">#4B0082</color>
+    <color name="purple_IndigoDark">#463168</color>
+    <color name="purple_IndigoSaturated">#523F6E</color>
+    <color name="purple_Royal">#7851A9</color>
+    <color name="purple_Medium">#9370DB</color>
+    <color name="purple_periwinkle">#AAAAFF</color>
+    <color name="purple_LightPastel">#B19CD9</color>
+    <color name="purple_PompPowerDark">#74608E</color>
+    <color name="purple_PompPower">#86608E</color>
+    <color name="purple_Plum">#dda0dd</color>
+    <color name="purple_Maueve">#E0B0FF</color>
+    <color name="purple_Thistle">#D8BFd8</color>
+    <color name="purple_Lavender">#E6E6FA</color>
+    <color name="purple_Pale">#FAE6FA</color>
+
+    <!-- Pink -->
+    <color name="pink_White0">#FFF0F7</color>
+    <color name="pink_White1">#FFE1F0</color>
+    <color name="pink_Pale">#FFD2E8</color>
+    <color name="pink_PaleDark">#FFC3E1</color>
+    <color name="Pink">#FFC0CB</color>
+    <color name="pink_Light">#FFB6C1</color>
+    <color name="pink_PaleDarker0">#FFB4D9</color>
+    <color name="pink_PaleDarker1">#FFA5D2</color>
+    <color name="pink_PaleDarker2">#FF96cA</color>
+    <color name="pink_PaleDarker3">#FF87C3</color>
+    <color name="pink_Hot0">#FF78BB</color>
+    <color name="pink_Hot1">#ff69b4</color>
+    <color name="pink_Hot2">#E55EA2</color>
+    <color name="pink_Hot3">#CC5490</color>
+    <color name="pink_HotSaturated">#B2497D</color>
+    <color name="pink_DeepPink">#ff1493</color>
+    <color name="pink_MediumVioletRed">#C71585</color>
+    <color name="pink_Ultimate">#B900FF</color>
+
+    <!-- Red -->
+    <color name="red_Ruby">#E0115F</color>
+    <color name="red_Hibiscus">#B43757</color>
+    <color name="red_Desire">#EA3C53</color>
+    <color name="red_BrightCrimson">#DC143C</color>
+    <color name="red_Raspberry">#D21F3C</color>
+    <color name="red_Persian">#CA3433</color>
+    <color name="red_Imperial">#ED2939</color>
+    <color name="red_USFlag">#BF0A30</color>
+    <color name="Red">#FF0000</color>
+    <color name="red_Crimson">#B80F0A</color>
+    <color name="red_Ferrari">#FF2800</color>
+    <color name="red_Chilli">#C21807</color>
+    <color name="red_Scarlet">#FF2400</color>
+    <color name="red_Rust">#933A16</color>
+    <color name="red_Carmine">#960018</color>
+    <color name="red_Burgundy">#8D021F</color>
+    <color name="red_maroon">#800000</color>
+    <color name="red_Vermilion">#7E191B</color>
+    <color name="red_Barn">#7C0A02</color>
+    <color name="red_Dark">#580000</color>
+    <color name="red_Sangria">#5E1914</color>
+    <color name="red_Mahogany">#420D09</color>
+    <color name="red_FireBrick">#400000</color>
+    <color name="red_BlackLight0">#380000</color>
+    <color name="red_BlackLight1">#300000</color>
+    <color name="red_BlackLight2">#280000</color>
+    <color name="red_BlackLight3">#200000</color>
+    <color name="red_Black0">#180000</color>
+    <color name="red_Black1">#100000</color>
+    <color name="red_Black2">#080000</color>
+
+    <!-- Orange -->
+    <color name="orange_Dark">#170C00</color>
+    <color name="orange_DarkBrown">#2E1900</color>
+    <color name="orange_Brown">#452600</color>
+    <color name="orange_LightBrown0">#5C3200</color>
+    <color name="orange_LightBrown1">#733F00</color>
+    <color name="orange_Clay">#813F0B</color>
+    <color name="orange_Spice">#793802</color>
+    <color name="orange_AmberDark">#883000</color>
+    <color name="orange_Burnt">#964000</color>
+    <color name="orange_Rust">#B7410E</color>
+    <color name="orange_DarkRed">#FF4500</color>
+    <color name="orange_LightRed">#FF4B0D</color>
+    <color name="orange_Salamander">#F05E23</color>
+    <color name="orange_Ginger">#BE5504</color>
+    <color name="orange_Squash">#CB5C0D</color>
+    <color name="orange_SquashLight">#FF681F</color>
+    <color name="orange_BrightBrown0">#B96500</color>
+    <color name="orange_Bronze">#B1560F</color>
+    <color name="orange_BrightBrown1">#A25900</color>
+    <color name="orange_Cider">#B3672B</color>
+    <color name="orange_Tiger">#FD6A02</color>
+    <color name="orange_MangoTango1">#CC7000</color>
+    <color name="orange_Carrot">#EF7215</color>
+    <color name="orange_Original">#D07200</color>
+    <color name="orange_MangoTango0">#E77200</color>
+    <color name="orange_Pumpkin">#FF7417</color>
+    <color name="orange_Ochre">#CC7722</color>
+    <color name="orange_Sandstone">#D7722C</color>
+    <color name="orange_Royal">#F9812A</color>
+    <color name="orange_Apricot">#EF820D</color>
+    <color name="orange_Light">#FF8C00</color>
+    <color name="orange_NeonCarrot">#FF9933</color>
+    <color name="orange_Neutral0">#FFAB45</color>
+    <color name="orange_Outrageous">#FF6037</color>
+    <color name="orange_Tomato">#FF6347</color>
+    <color name="orange_Coral">#FF7F50</color>
+    <color name="orange_BurntLight">#FF7F49</color>
+    <color name="orange_Melon">#F79862</color>
+    <color name="orange_TangerineAtomic">#FF9966</color>
+    <color name="orange_TangerineLight2">#FFC297</color>
+    <color name="orange_TangerineLight1">#FFD4AB</color>
+    <color name="orange_TangerineWhite0">#ffe4c6</color>
+    <color name="orange_White">#FFF4E7</color>
+    <color name="orange_WhiteLight">#FFEAD0</color>
+    <color name="orange_Beige">#F5F5DC</color>
+    <color name="orange_WhiteBeige0">#FFDFB9</color>
+    <color name="orange_WhiteBeige1">#ffdbb5</color>
+    <color name="orange_WhiteBeige2">#FFD9AE</color>
+    <color name="orange_WhiteBeige3">#FFD8AF</color>
+    <color name="orange_WhiteBeige4">#FFD5A2</color>
+    <color name="orange_Light1">#FFCA8B</color>
+    <color name="orange_Light2">#FFC073</color>
+    <color name="orange_Light3">#FFB55F</color>
+    <color name="orange_Yellow0">#FFB24D</color>
+    <color name="orange_Yellow1">#FFAE3D</color>
+    <color name="orange_Yellow2">#FFA928</color>
+    <color name="Orange">#FFA02E</color>
+    <color name="orange_OriginalGold">#F9A602</color>
+    <color name="orange_Fire">#FDA00F</color>
+    <color name="orange_Honey">#EB9605</color>
+    <color name="orange_HoneyDark">#AD8803</color>
+
+
+    <!-- Yellow -->
+    <color name="yellow_Dark2">#F9A825</color>
+    <color name="yellow_Dark1">#FFB300</color>
+    <color name="yellow_Dark0">#FFC107</color>
+    <color name="Amber">#FFBF00</color>
+    <color name="yellow_Amber2">#FBC02D</color>
+    <color name="yellow_Amber1">#FFC400</color>
+    <color name="yellow_Amber0">#FFCA28</color>
+    <color name="yellow_sunGlow">#FFCC33</color>
+    <color name="yellow_GoldOrange0">#FFD700</color>
+    <color name="yellow_GoldOrange1">#FFD600</color>
+    <color name="yellow_GoldOrange2">#FDD835</color>
+    <color name="yellow_GoldOrange3">#FFD740</color>
+    <color name="yellow_GoldOrange4">#FFD54F</color>
+    <color name="yellow_DarkKhaki">#CCC54E</color>
+    <color name="yellow_LightKhaki3">#BDB76B</color>
+    <color name="yellow_LightKhaki2">#FFE57F</color>
+    <color name="yellow_LightKhaki1">#FFE082</color>
+    <color name="yellow_LightKhaki0">#FFECB3</color>
+    <color name="yellow_White0">#FFF8E1</color>
+    <color name="yellow_White1">#ffE9DA</color>
+    <color name="yellow_White2">#FFFDE7</color>
+    <color name="yellow_Light0">#FFFFE0</color>
+    <color name="yellow_Light1">#FFF9C4</color>
+    <color name="yellow_Light2">#FFFACD</color>
+    <color name="yellow_SpringGreen">#ECEBBD</color>
+    <color name="yellow_SpringGreenBeige">#F0F4C3</color>
+    <color name="orange_BannaMania">#FBE7B2</color>
+    <color name="yellow_Beige">#ffe29f</color>
+    <color name="yellow_Light3">#FFFF9F</color>
+    <color name="yellow_Light4">#FFFF99</color>
+    <color name="yellow_Khaki0">#F0E68C</color>
+    <color name="yellow_Khaki1">#FFF590</color>
+    <color name="yellow_Khaki2">#FFFF82</color>
+    <color name="yellow_Khaki3">#FFF176</color>
+    <color name="yellow_Bright0">#FFFF66</color>
+    <color name="yellow_Bright1">#FFEE58</color>
+    <color name="yellow_Bright2">#FFEB3B</color>
+    <color name="yellow_Bright3">#FFFF33</color>
+    <color name="yellow_Max">#FAFA37</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="yellow_Neon0">#FFFF00</color>
+    <color name="yellow_Middle">#FFEB00</color>
+    <color name="yellow_Neon1">#FFEA00</color>
+    <color name="yellow_Neon2">#CCCC00</color>
+
+    <!-- Green -->
+    <color name="green_yellow4">#C0CA33</color>
+    <color name="green_yellow3">#CDDC39</color>
+    <color name="green_yellow2">#EEFF41</color>
+    <color name="green_yellow1">#D4E157</color>
+    <color name="green_yellow0">#F4FF81</color>
+    <color name="green_LimeYellow1">#DCE775</color>
+    <color name="green_LimeYellow0">#E6EE9C</color>
+    <color name="green_LimeLight0">#CCFF90</color>
+    <color name="green_LimeLight1">#AED581</color>
+    <color name="green_LimeLight2">#9CCC65</color>
+    <color name="green_BrightLime0">#B2FF59</color>
+    <color name="green_BrightLime1">#8BC34A</color>
+    <color name="green_BrightLime2">#7CB342</color>
+    <color name="green_Pea">#78AB46</color>
+    <color name="green_PeaDark">#689F38</color>
+    <color name="green_Light0">#558B2F</color>
+    <color name="green_Light1">#458B00</color>
+    <color name="green_NeonDark">#5EB308</color>
+    <color name="green_NeonLight2">#66CD00</color>
+    <color name="green_NeonLight1">#76EE00</color>
+    <color name="green_NeonLight0">#7CFC00</color>
+    <color name="green_NeonYellow2">#A9D72F</color>
+    <color name="green_NeonYellow1">#AEEA00</color>
+    <color name="green_NeonYellow0">#C6FF00</color>
+    <color name="green_ElectricLime">#CCFF00</color>
+    <color name="green_ElectricNeon">#8FD400</color>
+    <color name="green_SpringFrost">#87FF2A</color>
+    <color name="green_Grass">#7FFF00</color>
+    <color name="green_Bright2">#83F52C</color>
+    <color name="green_Bright1">#76FF03</color>
+    <color name="green_Bright0">#64DD17</color>
+    <color name="green_ScreamingDark1">#00C853</color>
+    <color name="green_ScreamingDark0">#00E676</color>
+    <color name="green_ScreamingGreen">#66FF66</color>
+    <color name="green_Aqua">#69F0AE</color>
+    <color name="green_White">#B9F6CA</color>
+    <color name="green_LightAlgae">#A5D6A7</color>
+    <color name="green_BrightAlgae">#81C784</color>
+    <color name="green_AquaDark0">#66BB6A</color>
+    <color name="green_AquaDark1">#4CAF50</color>
+    <color name="green_AquaDark2">#43A047</color>
+    <color name="green_Bright4">#388E3C</color>
+    <color name="green_Bright5">#2E7D32</color>
+    <color name="Green">#1B5E20</color>
+    <color name="green_KapooDark">#33691E</color>
+    <color name="green_Kapoo">#4A7023</color>
+    <color name="green_FenwayGrass">#526F35</color>
+    <color name="green_RomaineLettuce">#3B5323</color>
+    <color name="green_DarkLettuceDark0">#2E3F1E</color>
+    <color name="green_DarkLettuceDark1">#29381B</color>
+
+    <!-- ↓ **** ======= Brick Color Pallets ======= **** ↓ -->
+    <color name="blue_Anchor">#3E424B</color>
+    <color name="brick_Ash">#544C4A</color>
+    <color name="brick_Seal">#818380</color>
+    <color name="brick_Trout">#97978F</color>
+    <color name="brick_Stone">#877F7D</color>
+    <color name="brick_Fossil">#787276</color>
+    <color name="brick_Mink">#88807B</color>
+    <color name="brick_Thunder">#BDB7AB</color>
+    <color name="brick_smoke">#BEBDB8</color>
+    <color name="brick_Rhino">#B9BBB6</color>
+    <color name="brick_Harbor_Gray">#C7C6C1</color>
+    <color name="brick_Abalone">#D6CFC7</color>
+
+
+    <!-- ↓ **** ======= Paper Color Pallets ======= **** ↓ -->
+
+    <!-- Black -->
+    <color name="paperBlack">#0A0A0B</color>
+    <color name="paperBlack_0">#45403F</color>
+    <!-- Brown -->
+    <color name="paperBrown">#563129</color>
+    <color name="paperBrown_0">#4B3D35</color>
+    <color name="paperBrown_1">#91886D</color>
+    <color name="paperBrown_Bronze">#5D4719</color>
+
+
+    <!-- Grey -->
+    <color name="paperGray_0">#9AA0A5</color>
+
+
+    <color name="paperGray_Tan">#AEAEA0</color>
+    <color name="paperGray_1">#C3C4BC</color>
+    <color name="paperGray_2">#B1B2B1</color>
+    <color name="paperGray_3">#C3C4BC</color>
+
+    <!-- White -->
+    <color name="paperPureWhite">#FEFEFE</color>
+    <color name="paperBrightWhite">#F4F4F4</color>
+    <color name="paperLesserWhite">#EFEFEF</color>
+    <color name="paperGhostWhite">#EBEAEC</color>
+    <color name="paperWhite_0">#E6E4E2</color>
+    <color name="paperWhite_1">#E9E6E3</color>
+    <color name="paperWhite_2">#EDEEE9</color>
+    <color name="paperWhite_3">#E3E3E0</color>
+
+
+    <!-- Blue Light -->
+    <color name="paperBlue_0">#D2DCEC</color>
+    <color name="paperBlue_Sky">#A5C7CE</color>
+    <color name="paperBlue_AquaMarine">#57A8A9</color>
+    <color name="paperAqua">#D1E9E6</color>
+    <color name="paperBlue_Baby">#649CAC</color>
+    <color name="paperBlue_BabyDark">#3D7DA4</color>
+    <color name="paperBlue_Saturated0">#7B7B85</color>
+    <color name="paperBlue_Saturated1">#75838C</color>
+    <color name="paperBlue_Saturated2">#6A8288</color>
+
+    <!-- Blue Dark -->
+    <color name="paperBlueDark_Blue">#101826</color>
+    <color name="paperBlueDark_0">#242A35</color>
+    <color name="paperBlueDark_1">#2D2D35</color>
+    <color name="paperBlueNeutral_0">#4F5357</color>
+
+    <!-- Purple -->
+    <color name="paperPurple">#331823</color>
+    <color name="paperPurple_0">#7F7389</color>
+    <color name="paperPurple_Eggplant">#614051</color>
+
+
+    <!-- Pink -->
+    <color name="paperPink_0">#BF969E</color>
+    <color name="paperPink_1">#B36C78</color>
+    <color name="paperPink_2">#DBA897</color>
+
+    <!-- Red -->
+    <color name="paperRedSaturated">#5E2528</color>
+    <color name="paperRubyRed">#7D1404</color>
+    <color name="paperRubyRedDark">#881100</color>
+    <color name="paperRed">#F80000</color>
+    <color name="paperRedBright">#FF0002</color>
+    <color name="PaperRedChili">#F5422C</color>
+    <color name="paperRedHotChili">#E90310</color>
+    <color name="paperRedOrange">#C53C36</color>
+    <color name="paperRedOrangeDark">#A63F31</color>
+    <color name="paperRedNeon">#B42C4D</color>
+    <color name="paperRed_0">#BD4952</color>
+    <color name="paperRed_1">#AF4D55</color>
+    <color name="paperRed_2">#AA5452</color>
+    <color name="paperRedDull_0">#A65E54</color>
+    <color name="paperRedDull_1">#A76B56</color>
+    <color name="paperRedLightOrange">#CB825E</color>
+    <color name="paperRedCopper">#C06243</color>
+
+
+    <!-- Orange -->
+    <color name="paperOrangeNeon">#F71600</color>
+    <color name="paperOrangeRed">#CC360B</color>
+    <color name="paperOrangePeach">#DCB49D</color>
+    <color name="paperOrange_Peach">#DFC3A5</color>
+    <color name="paperOrange_Beige">#E4D09C</color>
+    <color name="paperOrange_OrangeDark">#B26C38</color>
+    <color name="paperOrangeBronze">#A47646</color>
+    <color name="paperOrange_0">#D08747</color>
+    <color name="paperOrange_1">#B89154</color>
+
+    <!-- Yellow -->
+    <color name="paperYellow_BeigeYellow">#C6C1B2</color>
+    <color name="paperYellow_Beige">#CAC9B6</color>
+    <color name="paperYellow_LightBanana">#D7D39F</color>
+    <color name="paperYellow_BrightBanana">#FFE898</color>
+    <color name="paperYellow_BananaPudding">#FFF485</color>
+    <color name="paperYellow_BrightYellow">#FFE700</color>
+    <color name="paperYellow_BrightGold">#FFCA00</color>
+    <color name="paperYellow_DarkGold">#F2C400</color>
+    <color name="paperYellow_Bronze">#B49448</color>
+
+
+    <!-- Green -->
+    <color name="paperGreen_WhiteLime">#C8E6C9</color>
+    <color name="paperGreen_White1">#E8F5E9</color>
+    <color name="paperGreen_White0">#F1F8E9</color>
+    <color name="paperGreen_grassWhite">#DCEDC8</color>
+    <color name="paperGreen_grassLightGreen">#CDE3B3</color>
+    <color name="paperGreen_grassBrightGreen">#C5E1A5</color>
+    <color name="paperGreen_cactusGreen1">#AEC596</color>
+    <color name="paperGreen_cactusGreen0">#A8BC95</color>
+    <color name="paperGreen">#759563</color>
+    <color name="paperGreen_Murkey">#8D9F77</color>
+    <color name="paperGreen_cactusGreen">#717F61</color>
+    <color name="paperGreen_mudGreen">#5A6351</color>
+    <color name="paperGreen_mudGreenBright">#7E8A6F</color>
+    <color name="paperGreen_mudGreenLight">#8D9988</color>
+    <color name="paperGreen_MudGreenish">#9FB39F</color>
+    <color name="paperGreen_greyCyanWhite">#9FB2B3</color>
+    <color name="paperGreen_greyCyanLight">#8A9E9F</color>
+    <color name="paperGreen_greyCyan">#6E7F80</color>
+    <color name="paperGreen_greyCyanDark">#57696E</color>
+    <color name="paperGreen_outerSpaceLight0">#44595D</color>
+    <color name="paperGreen_outerSpaceLight1">#354346</color>
+    <color name="paperGreen_outerSpace">#2D383A</color>
+    <color name="paperGreen_outerSpaceDark">#FF2A3436</color>
+    <color name="paperGreen_outerSpaceDarkest">#252E30</color>
+    <color name="paperGreen_blueCharleston">#232B2B</color>
+    <color name="paperGreen_blueCharlestonLight">#B21E2627</color>
+    <color name="paperGreen_blueCharlestonDark">#FF222A2C</color>
+    <color name="paperGreen_Dark">#1D2425</color>
+    <color name="paperGreen_pureBlack">#B2131919</color>
+
+</resources>

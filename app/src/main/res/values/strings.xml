@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daily GPS Tracker</string>
+    <string name="coordinates_go_here">Coordinates Go Here</string>
+    <string name="map_will_go_here">Map Will Go Here</string>
+    <string name="stop_tracking">Stop Tracking</string>
+    <string name="coming_soon">COMING SOON!</string>
+    <string name="start_tracking">Start Tracking</string>
+
+</resources>
